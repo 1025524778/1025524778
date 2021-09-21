@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1025524778
+- 👋 Hi, I’m Edmond Liu
 - 👀 I’m interested in Data_Science/ Data_Analysis/ AI/ Heriot-Watt University
 - 🌱 I’m currently learning Databases and Information Systems(F21DF), Artificial Intelligence and Intelligent Agents(F29AI), Web Programming(F28WP), Software Engineering Foundations(F20SF), i currently working in a CI(customer insight) company, 12 different projects experience(including garment industry, cars, food industry, pets etc)
 - 💞️ I’m looking to collaborate on Python, Java
